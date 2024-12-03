@@ -207,6 +207,13 @@ section.your-active-class .landing__container::after {
     opacity: 1;
     animation: rotate 5s linear 0s infinite forwards reverse;
 }
+/* for active section */ 
+.navbar__menu .active {
+    background-color: #333; 
+    color: #fff; 
+    padding: 8px 15px;
+    border-radius: 5px;
+  }
 
 /* Section Active Styles Keyframe Animations */
 @keyframes rotate {

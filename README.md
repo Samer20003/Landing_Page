@@ -1,2 +1,14 @@
 # Landing_Page
-the landing page project is project that i make to test my learning on the javaScript during m my education period at Udacity , This project demonstrates a landing page with dynamic navigation, responsive design, and interactive features such as smooth scrolling and active section highlighting. 
+Project Description
+This project dynamically generates a navigation bar for a webpage with multiple sections. The navigation links are automatically highlighted as you scroll through the page, providing an intuitive user experience. Smooth scrolling is implemented to enhance navigation between sections.
+================================================================
+Features
+Dynamic Navigation Bar.
+Active Section Highlighting.
+Smooth Scrolling.
+Responsive Design.
+================================================================
+Usage
+Clone or Download the repository to your local system
+repo link : https://github.com/your-repository-url.git
+you can use {git clone} for colning the repo 
