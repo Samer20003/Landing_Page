@@ -1,1 +1,2 @@
 # Landing_Page
+the landing page project is project that i make to test my learning on the javaScript during m my education period at Udacity , This project demonstrates a landing page with dynamic navigation, responsive design, and interactive features such as smooth scrolling and active section highlighting. 
